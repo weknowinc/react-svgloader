@@ -1,0 +1,30 @@
+{
+  "name": "react-svgloader",
+  "version": "1.0.8",
+  "description": "ReactJS Component for Ajax SVG file loading and DOM Injection.",
+  "main": "svgloader.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ReactJS",
+    "Component",
+    "SVG",
+    "File",
+    "CSS",
+    "DOM",
+    "Ajax"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blasvicco/svgloader.git"
+  },
+  "author": "\"Blas Vicco\"",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "react": "^16.0.0"
+  }
+}
